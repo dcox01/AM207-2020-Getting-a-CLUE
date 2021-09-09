@@ -9,7 +9,7 @@ Paul Oramasionwu
 Austin Rochon
 
 
-In the main notebook in this repository: AM207_reportwe recreate and explore much of the work from the following recent paper :
+In the main notebook in this repository "AM207Report.ipynb" which we recreate and explore much of the work from the following recent paper.
 
 A. Javier et al. 'Getting a CLUE: A Method for Explaining Uncertainty Estimates'
 arXiv:2006.06848v1by 2020
